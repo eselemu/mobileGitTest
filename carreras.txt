@@ -1,2 +1,2 @@
-1. ISGC
-2. IAD
+[1] ISGC
+[2] IAD

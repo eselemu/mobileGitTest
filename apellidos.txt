@@ -1,2 +1,4 @@
 [1] Flores Castellanos
 [2] Salcedo Uribe
+Integrante 1: Flores Castellanos
+Integrante 2: Salcedo Uribe

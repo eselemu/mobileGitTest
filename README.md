@@ -1,2 +1,3 @@
 # mobileGitTest
-En efecto emi es gay en esta rama
+Héctor Emiliano Flores Castellanos
+José Salcedo Uribe

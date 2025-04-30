@@ -1,3 +1,2 @@
 # mobileGitTest
-Héctor Emiliano Flores Castellanos
-José Salcedo Uribe
+Héctor Emiliano Flores Castellanos & José Salcedo Uribe
